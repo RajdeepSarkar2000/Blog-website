@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "React Post",
+      "body": "This is the best React Post",
+      "author": "Rajdeep",
+      "id": 1
+    },
+    {
+      "title": "Redux Post",
+      "body": "This is the best Redux Post",
+      "author": "Rajdeep",
+      "id": 2
+    },
+    {
+      "title": "ES6 Post",
+      "body": "This is the best ES6 Post",
+      "author": "Rajdeep",
+      "id": 3
+    },
+    {
+      "title": "JS Post",
+      "body": "This is the best JavaScript Post",
+      "author": "Rajdeep",
+      "id": 4
+    },
+    {
+      "title": "Programming Post",
+      "body": "This is the best Programming Post",
+      "author": "Rajdeep",
+      "id": 5
+    }
+  ]
+}
